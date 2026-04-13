@@ -437,3 +437,15 @@ p {
     padding-top: 2rem;
   }
 }
+.adsterra-link-wrap {
+  padding: 0 0 1.25rem;
+  text-align: center;
+}
+
+.adsterra-link {
+  color: inherit;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
