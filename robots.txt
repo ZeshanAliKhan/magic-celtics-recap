@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/magic-celtics-recap/sitemap.xml
+
